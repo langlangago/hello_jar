@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: webmvc
+server:
+    port: 8081
+
